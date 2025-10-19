@@ -1,5 +1,5 @@
 # Participiant: How to Contribute
-
+# making a change locally
 1. **Visit the HackNight 6.0 Leaderboard**:
    Browse the leaderboard and choose a repository you'd like to contribute to!
 
